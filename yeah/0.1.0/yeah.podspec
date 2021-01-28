@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'yeah/Classes/**/*'
+  s.public_header_files = 'yeah/Classes/**/*.h'
   
   # s.resource_bundles = {
   #   'yeah' => ['yeah/Assets/*.png']
