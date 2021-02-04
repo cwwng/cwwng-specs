@@ -1,0 +1,22 @@
+{
+  "name": "wawajiwa",
+  "version": "0.1.4",
+  "summary": "A short description of yeah.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cwwng/categorypage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cwwng": "364464702@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/cwwng/categorypage.git",
+    "tag": "0.1.4"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "wawajiwa/Src/**/*"
+}
