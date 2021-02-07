@@ -19,5 +19,7 @@
     "ios": "9.0"
   },
   "vendored_frameworks": "TestFramework.framework",
-  "public_header_files": "TestFramework/Src/*.h"
+  "source_files": [
+    "TestFramework.framework/Headers/*"
+  ]
 }
